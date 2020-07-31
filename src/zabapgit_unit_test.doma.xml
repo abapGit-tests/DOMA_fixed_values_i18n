@@ -50,6 +50,16 @@
      <DOMVALUE_L>1</DOMVALUE_L>
      <DDTEXT>German</DDTEXT>
     </item>
+    <item>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>2</DOMVALUE_L>
+    </item>
+    <item>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DOMVALUE_L>3</DOMVALUE_L>
+    </item>
    </DD07_TEXTS>
   </asx:values>
  </asx:abap>
